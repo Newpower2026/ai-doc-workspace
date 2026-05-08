@@ -1,0 +1,20 @@
+# AI-Assisted Development Workflow
+
+AI tools were used to accelerate:
+- frontend setup
+- deployment troubleshooting
+- React/Vite configuration
+- debugging build issues
+- deployment workflow setup
+
+## Workflow
+1. Initialized Vite React project
+2. Connected GitHub repository
+3. Configured Netlify deployment
+4. Resolved missing src asset/import issues
+5. Verified successful production build
+
+## Validation
+- Verified successful npm build
+- Verified live deployment
+- Confirmed frontend rendering

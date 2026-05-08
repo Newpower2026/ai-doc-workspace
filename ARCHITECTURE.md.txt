@@ -1,0 +1,25 @@
+# Architecture Overview
+
+## Frontend
+- React + Vite
+- Component-based architecture
+- Local state management
+
+## Authentication
+- Seeded users stored locally
+- Login validation handled in frontend
+
+## Document Workspace
+- Document upload interface
+- Rich text editing with Tiptap
+- Local persistence using localStorage
+
+## Storage
+- localStorage used for:
+  - user session persistence
+  - document state
+  - editor content
+
+## Deployment
+- GitHub repository connected to Netlify
+- Continuous deployment enabled from main branch

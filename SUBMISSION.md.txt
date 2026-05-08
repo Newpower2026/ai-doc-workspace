@@ -1,0 +1,23 @@
+# Technical Assessment Submission
+
+## Included Deliverables
+- Source code repository
+- Live deployed application
+- Architecture documentation
+- AI workflow documentation
+- README instructions
+
+## Tech Stack
+- React
+- Vite
+- Netlify
+- GitHub
+
+## Features
+- Frontend workspace
+- File/document handling structure
+- Rich text editor support
+- Local persistence
+
+## Deployment
+Application deployed successfully using Netlify continuous deployment.
